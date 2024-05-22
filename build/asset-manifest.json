@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.991bd25b.css",
+    "main.js": "/static/js/main.0faf0b95.js",
+    "static/js/453.e5b00392.chunk.js": "/static/js/453.e5b00392.chunk.js",
+    "static/media/ladywear3.jpg": "/static/media/ladywear3.5436f7a7ccbad71b90d6.jpg",
+    "static/media/manwear2.jpg": "/static/media/manwear2.55da8494255621748c92.jpg",
+    "static/media/live3.jpg": "/static/media/live3.5528fb322b6444175274.jpg",
+    "static/media/manwear3.jpg": "/static/media/manwear3.4ebf4fff237cc9b504cf.jpg",
+    "static/media/manwear5.jpg": "/static/media/manwear5.4ebf4fff237cc9b504cf.jpg",
+    "static/media/live2.jpg": "/static/media/live2.a860da5af63a41ca0424.jpg",
+    "static/media/appliance1.jpg": "/static/media/appliance1.f4d0a354b2967deba506.jpg",
+    "static/media/ladywear4.jpg": "/static/media/ladywear4.a6d6829fb157f64187c1.jpg",
+    "static/media/appliance2.jpg": "/static/media/appliance2.e97c1dd12867b6f585d1.jpg",
+    "static/media/ladywear2.jpg": "/static/media/ladywear2.f66aae6eab47936a4b13.jpg",
+    "static/media/live1.jpg": "/static/media/live1.b895fd247dbc65d9077e.jpg",
+    "static/media/phone1.jpg": "/static/media/phone1.df79ca66f57704a21491.jpg",
+    "static/media/manwear1.jpg": "/static/media/manwear1.2b1e1ea0a95f224c5c72.jpg",
+    "static/media/ladywear1.jpg": "/static/media/ladywear1.b1cbbcf2c8c5f86ece7e.jpg",
+    "static/media/appliance3.jpg": "/static/media/appliance3.44e76931af3b32f997dc.jpg",
+    "static/media/appliance4.jpg": "/static/media/appliance4.cf9dacf9118dc89a8599.jpg",
+    "static/media/phone3.jpg": "/static/media/phone3.89916d9f007226a97e69.jpg",
+    "static/media/live4.jpg": "/static/media/live4.0e00c65a336add676d8d.jpg",
+    "static/media/phone2.jpg": "/static/media/phone2.037d7b61681c9d5d497f.jpg",
+    "static/media/phone4.jpg": "/static/media/phone4.313b34616b7f46b52738.jpg",
+    "static/media/ladywear5.jpg": "/static/media/ladywear5.02aca131a886122e8ca1.jpg",
+    "static/media/appliance5.jpg": "/static/media/appliance5.66835facf03099779331.jpg",
+    "static/media/manwear4.jpg": "/static/media/manwear4.bf0506643ccb0133be55.jpg",
+    "index.html": "/index.html",
+    "main.991bd25b.css.map": "/static/css/main.991bd25b.css.map",
+    "main.0faf0b95.js.map": "/static/js/main.0faf0b95.js.map",
+    "453.e5b00392.chunk.js.map": "/static/js/453.e5b00392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.991bd25b.css",
+    "static/js/main.0faf0b95.js"
+  ]
+}

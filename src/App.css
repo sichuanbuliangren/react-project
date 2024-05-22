@@ -1,3 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
 .App {
   text-align: center;
 }
@@ -32,7 +41,50 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+/* App样式 */
+.footer-menu {
+  display: flex;
+  position: fixed;
+  justify-content: space-between;
+  height: 8%;
+  width: 100%;
+  bottom: 0px;
+}
+
+.menu-list {
+  position: relative;
+  width: 25%;
+  height: 100%;
+  padding-left: 8%;
+  line-height: 100%;
+  font-size: 25px;
+}
+
+
+.footer-lists a {
+  position: absolute;
+  display: block;
+  color: #282c34;
+  text-align: center;
+  text-decoration: none;
+}
+
+.footer-lists a span {
+  display: block;
+}
+
+
+/* 修改icon样式 */
+.selected .anticon {
+  color: rgb(80, 153, 255);
+}
+
+.selected span {
+  color: rgb(80, 153, 255);
 }

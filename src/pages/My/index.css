@@ -1,0 +1,29 @@
+h1 {
+  margin-top: 30px;
+}
+
+.user-list {
+  height: 300px;
+  margin: 50px auto;
+  text-align: center;
+  font-size: 16px;
+}
+
+.user-list input {
+  height: 40%;
+  border: 2px solid gainsboro;
+}
+
+.user-list .login-btn {
+  height: 80%;
+  width: 100%;
+  bottom: 0px;
+  border: none;
+  background-color: rgb(80, 153, 255);
+  opacity: 0.7;
+}
+
+.user-list .login-btn:active {
+  background-color: rgb(80, 153, 255);
+  opacity: 1;
+}
